@@ -55,7 +55,7 @@ pip install -r requirements.txt
 {
     "IsEncrypted": false,
     "Values": {
-      "AzureWebJobsStorage": "seDevelopmentStorage=true",
+      "AzureWebJobsStorage": "UseDevelopmentStorage=true",
       "FUNCTIONS_WORKER_RUNTIME": "python",
       "AZURE_OPENAI_API_KEY":"Your AZURE_OPENAI_API_KEY",
       "AZURE_OPENAI_ENDPOINT":"Your AZURE_OPENAI_ENDPOINT",
