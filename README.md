@@ -36,7 +36,7 @@ RAG（Retrieval-Augmented Generation）は、事前に収集した大量のデ�
 ## 環境構築
  
 ```
-git clone git@gitlab.com:intelligentforce/azure_rag.git
+git clone git@github.com:saoki0913/azure_rag.git
 cd azure_rag
 ```
  
